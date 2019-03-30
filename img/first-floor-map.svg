@@ -14,14 +14,11 @@
 	.st8{font-size:27.8375px;}
 	.st9{font-size:13.9187px;}
 	.st10{font-size:8.9773px;}
-	.st11{font-size:8px;}
-	.st12{font-size:18.2729px;}
-	.st13{font-size:9.1364px;}
-	.st14{font-size:20px;}
-	.st15{font-size:10px;}
-	.st16{font-size:16px;}
-	.st17{fill:#FFFFFF;}
-	.st18{font-size:4.3391px;}
+	.st11{font-size:18.2729px;}
+	.st12{font-size:9.1364px;}
+	.st13{font-size:20px;}
+	.st14{font-size:10px;}
+	.st15{font-size:16px;}
 </style>
 <rect x="416.5" y="143.6" width="100.7" height="84.8"/>
 <rect x="509.5" y="153.1" width="157.8" height="94.2"/>
@@ -140,58 +137,9 @@
 <text transform="matrix(0.583 0 0 0.583 329.7505 194.5825)"><tspan x="0" y="0" class="st4 st5 st6">Men’s</tspan><tspan x="-10.7" y="11.4" class="st4 st5 st7">Bathroom</tspan></text>
 <text transform="matrix(0.583 0 0 0.583 369.5839 194.5826)"><tspan x="0" y="0" class="st4 st5 st6">Women’s</tspan><tspan x="2.5" y="11.4" class="st4 st5 st7">Bathroom</tspan></text>
 <text transform="matrix(1 0 0 1 140.7249 49.8177)"><tspan x="0" y="0" class="st4 st5 st8">Ceremony</tspan><tspan x="45.2" y="27.8" class="st4 st5 st8">Hall</tspan><tspan x="57.3" y="41.8" class="st4 st5 st9">(101)</tspan></text>
-<text transform="matrix(1 0 0 1 308.2587 53.7935)"><tspan x="0" y="0" class="st4 st5 st10">Hardware</tspan><tspan x="13.6" y="9" class="st4 st5 st10">Lab</tspan><tspan x="12.3" y="17" class="st4 st5 st11">(106)</tspan></text>
-<text transform="matrix(1 0 0 1 394.3851 43.4042)"><tspan x="0" y="0" class="st4 st5 st12">Staff</tspan><tspan x="1.5" y="18.3" class="st4 st5 st12">Only</tspan><tspan x="13.4" y="27.4" class="st4 st5 st13">(110)</tspan></text>
-<text transform="matrix(1 0 0 1 472.317 42.7031)"><tspan x="0" y="0" class="st4 st5 st14">Hacking</tspan><tspan x="10.6" y="20" class="st4 st5 st14">Space</tspan><tspan x="31.3" y="30" class="st4 st5 st15">(112)</tspan></text>
-<text transform="matrix(1 0 0 1 606.136 42.7029)"><tspan x="0" y="0" class="st4 st5 st14">Hacking</tspan><tspan x="10.6" y="20" class="st4 st5 st14">Space</tspan><tspan x="30.3" y="30" class="st4 st5 st15">(125)</tspan></text>
-<text transform="matrix(1 0 0 1 205.5029 200.6065)"><tspan x="0" y="0" class="st4 st5 st16">Food &amp; Snack</tspan><tspan x="44" y="10" class="st4 st5 st15">(102)</tspan></text>
-<g id="Table">
-	<rect x="60.8" y="61" transform="matrix(0.9479 -0.3184 0.3184 0.9479 -18.8521 24.1381)" class="st4" width="7.2" height="17.4"/>
-	<text transform="matrix(0.1856 0.5527 -0.5527 0.1856 61.2335 62.3784)" class="st17 st5 st18">Registration</text>
-</g>
-<g id="Table_1_">
-	
-		<rect x="66.6" y="78.3" transform="matrix(0.9479 -0.3184 0.3184 0.9479 -24.0297 26.8739)" class="st4" width="7.2" height="17.4"/>
-	<text transform="matrix(0.1856 0.5527 -0.5527 0.1856 67.0127 79.5829)" class="st17 st5 st18">Registration</text>
-</g>
-<g id="Table_2_">
-	
-		<rect x="73.3" y="99.5" transform="matrix(0.9479 -0.3184 0.3184 0.9479 -30.429 30.1363)" class="st4" width="7.2" height="17.4"/>
-	<text transform="matrix(0.1856 0.5527 -0.5527 0.1856 75.3567 105.4456)" class="st17 st5 st18">MLH</text>
-</g>
-<g id="Table_3_">
-	
-		<rect x="79.1" y="116.7" transform="matrix(0.9479 -0.3184 0.3184 0.9479 -35.6066 32.8721)" class="st4" width="7.2" height="17.4"/>
-	<text transform="matrix(0.1856 0.5527 -0.5527 0.1856 81.135 122.6502)" class="st17 st5 st18">MLH</text>
-</g>
-<g id="Table_4_">
-	
-		<rect x="87.9" y="153.5" transform="matrix(7.628522e-02 -0.9971 0.9971 7.628522e-02 -77.1833 241.0448)" class="st4" width="7.2" height="17.4"/>
-	<text transform="matrix(0.5813 4.447429e-02 -4.447429e-02 0.5813 86.1211 162.4349)" class="st17 st5 st18">Sponsor</text>
-</g>
-<g id="Table_5_">
-	
-		<rect x="106.8" y="155" transform="matrix(7.628522e-02 -0.9971 0.9971 7.628522e-02 -61.2173 261.299)" class="st4" width="7.2" height="17.4"/>
-	<text transform="matrix(0.5813 4.447429e-02 -4.447429e-02 0.5813 105.0356 163.9449)" class="st17 st5 st18">Sponsor</text>
-</g>
-<g id="Table_6_">
-	
-		<rect x="125.7" y="156.5" transform="matrix(7.628522e-02 -0.9971 0.9971 7.628522e-02 -45.2512 281.553)" class="st4" width="7.2" height="17.4"/>
-	<text transform="matrix(0.5813 4.447429e-02 -4.447429e-02 0.5813 123.9501 165.4548)" class="st17 st5 st18">Sponsor</text>
-</g>
-<g id="Table_7_">
-	
-		<rect x="144.6" y="158" transform="matrix(7.628522e-02 -0.9971 0.9971 7.628522e-02 -29.2852 301.8071)" class="st4" width="7.2" height="17.4"/>
-	<text transform="matrix(0.5813 4.447429e-02 -4.447429e-02 0.5813 142.8647 166.9647)" class="st17 st5 st18">Sponsor</text>
-</g>
-<g id="Table_8_">
-	
-		<rect x="163.5" y="159.5" transform="matrix(7.628522e-02 -0.9971 0.9971 7.628522e-02 -13.3191 322.0612)" class="st4" width="7.2" height="17.4"/>
-	<text transform="matrix(0.5813 4.447429e-02 -4.447429e-02 0.5813 161.7791 168.4746)" class="st17 st5 st18">Sponsor</text>
-</g>
-<g id="Table_9_">
-	
-		<rect x="182.5" y="161" transform="matrix(7.628522e-02 -0.9971 0.9971 7.628522e-02 2.647 342.3153)" class="st4" width="7.2" height="17.4"/>
-	<text transform="matrix(0.5813 4.447429e-02 -4.447429e-02 0.5813 180.6935 169.9845)" class="st17 st5 st18">Sponsor</text>
-</g>
+<text transform="matrix(1 0 0 1 39.6514 108.0443)"><tspan x="0" y="0" class="st4 st5 st10">Hardware</tspan><tspan x="13.6" y="9" class="st4 st5 st10">Lab</tspan></text>
+<text transform="matrix(1 0 0 1 488.9931 45.3889)"><tspan x="0" y="0" class="st4 st5 st11">Staff</tspan><tspan x="1.5" y="18.3" class="st4 st5 st11">Only</tspan><tspan x="13.4" y="27.4" class="st4 st5 st12">(110)</tspan></text>
+<text transform="matrix(1 0 0 1 375.4506 44.0262)"><tspan x="0" y="0" class="st4 st5 st13">Ethernet</tspan><tspan x="13.5" y="20" class="st4 st5 st13">Space</tspan><tspan x="34.3" y="30" class="st4 st5 st14">(112)</tspan></text>
+<text transform="matrix(1 0 0 1 606.136 42.7029)"><tspan x="0" y="0" class="st4 st5 st13">Hacking</tspan><tspan x="10.6" y="20" class="st4 st5 st13">Space</tspan><tspan x="30.3" y="30" class="st4 st5 st14">(125)</tspan></text>
+<text transform="matrix(1 0 0 1 205.5029 200.6065)"><tspan x="0" y="0" class="st4 st5 st15">Food &amp; Snack</tspan><tspan x="44" y="10" class="st4 st5 st14">(102)</tspan></text>
 </svg>
